@@ -38,5 +38,43 @@
 
 < - < - < - ( ) - > - > - >
 
-1.7 
+-1.7 Image and Video Thumbnails
 - Image and Video Previews allow quick viewing of thumbnails of images and videos in the file explorer. These previews are stored by creating thumbnail files of each file. Over time, these thumbnails can take up disk space and negatively affect the performance of the computer. This program frees up disk space and improves your computer's performance by cleaning up unused and unnecessary thumbnail files.
+
+### 2. Optimizations
+
+- 2.1 Startup Apps
+- This feature allows you to disable the auto-start feature of applications that start automatically when your computer is turned on. A windows free of startup applications will start faster and the application running in the background will not be found until you turn it on. This is a great accelerator, especially for low-spec computers. With this feature you don't need to search for startup applications in the registry. Disabling an application's autostart does not harm the application.
+
+< - < - < - ( ) - > - > - >
+
+- 2.2 Unused Memory
+- Unused memory contains bits of data that are temporarily used during computer operation but are no longer required. This memory space can fill up over time, negatively affecting the overall performance of the computer and reducing the amount of memory needed for new processes. This program frees up unused and unnecessary memory space, allowing the system to run more efficiently and increasing your computer's performance. Actively used memory is not interfered with.
+
+< - < - < - ( ) - > - > - >
+
+- 2.3 Resource Monitoring
+- This feature actually acts as a shortcut, opening the source tracker for you
+
+< - < - < - ( ) - > - > - >
+
+- 2.4 Power Plan
+- This feature actually acts as a shortcut, opening the power plan window for you. You can set the power options according to your preferences, if you are using a desktop computer we recommend setting it to high performance
+
+### 3. File Operations
+
+- 3.1 Advenced File Search
+- This feature allows you to find files that you can't find even in the classic windows file explorer. Another difference from the file explorer is that it is faster.
+
+< - < - < - ( ) - > - > - >
+
+- 3.2 File Shedder
+- This feature uses sophisticated techniques to completely delete the file of your choice from your computer so that even file recovery software cannot recover it.
+- First, it corrupts the file by replacing its contents with random information.It then changes the extension of the file. This binary case is performed more than once. The file is then deleted and overwritten with a new file, completely destroying it on the disk.
+- There is no way to recover the file you delete with this feature
+
+### Device Maneger
+
+- This feature acts as a shortcut to open the device manager
+
+
