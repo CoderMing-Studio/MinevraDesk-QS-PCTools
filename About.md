@@ -38,7 +38,7 @@
 
   < - < - < - ( ) - > - > - >
 
--1.7 Image and Video Thumbnails
+- 1.7 Image and Video Thumbnails
 - Image and Video Previews allow quick viewing of thumbnails of images and videos in the file explorer. These previews are stored by creating thumbnail files of each file. Over time, these thumbnails can take up disk space and negatively affect the performance of the computer. This program frees up disk space and improves your computer's performance by cleaning up unused and unnecessary thumbnail files.
 
 ### 2. Optimizations
