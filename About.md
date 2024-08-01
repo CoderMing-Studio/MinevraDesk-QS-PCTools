@@ -73,8 +73,15 @@
 - First, it corrupts the file by replacing its contents with random information.It then changes the extension of the file. This binary case is performed more than once. The file is then deleted and overwritten with a new file, completely destroying it on the disk.
 - There is no way to recover the file you delete with this feature
 
-### Device Maneger
+### 4. Device Maneger
 
 - This feature acts as a shortcut to open the device manager
 
+## Supported Languages
 
+- English ( United States )
+- Türkish ( Republic of Turkey )
+
+## Supported Themes
+
+- Dark Theme
