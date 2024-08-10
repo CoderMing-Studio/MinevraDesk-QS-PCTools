@@ -2,7 +2,7 @@
 
 ## [v1.3.0] - 2024-08-10
 ### Added
-- ### New computer information menu
+ ### New computer information menu
 - Get advanced information about your Processor, Graphics Card, Memories, Storage Devices, Motherboard, Network and Monitors with this feature.
 - This feature leaves behind the annoying feature learning processes that you will reach with a lot of windows and videos. View all your computer's features with one click.
 
