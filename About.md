@@ -77,7 +77,7 @@
 
 - This feature acts as a shortcut to open the device manager
 
-### 5. System Informations
+### 5. System Informations [New Feature]
 
 - Get advanced information about your system
 
