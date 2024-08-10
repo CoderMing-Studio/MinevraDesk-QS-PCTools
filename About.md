@@ -77,6 +77,10 @@
 
 - This feature acts as a shortcut to open the device manager
 
+### 5. System Informations
+
+- Get advanced information about your system
+
 ## Supported Languages
 
 - English ( United States )
