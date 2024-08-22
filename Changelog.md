@@ -1,5 +1,18 @@
 # Changelog
 
+## [v2.0.0] - 2024-08-10
+### Added
+#### New installation wizard
+- We have stopped using the Inno setup programme in order to provide an advanced and convenient installation manually by MinevraDesk. We will now use our own installation wizard tool.
+- The app will now be installed with a clear and modern installation tool that provides a manual and clean installation.
+#### New uninstaller wizard
+- Since we stopped using Inno setup, we had to use a manual uninstaller, so we developed our own uninstall wizard
+- The best part about this uninstall wizard is that there are no files left on the computer that belong to **Qs Tools** application with a clean uninstall process
+### Changed
+- The app's logo has been changed, now simpler and more visible
+- The .net version of the application has been upgraded to 4.8.1
+- Application build binary upgraded from x32 to x64
+
 ## [v1.3.0] - 2024-08-10
 ### Added
 - ## New computer information menu
