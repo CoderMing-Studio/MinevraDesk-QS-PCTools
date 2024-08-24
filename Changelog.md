@@ -1,5 +1,15 @@
 # Changelog
 
+## [v2.1.0] - 2024-08-10
+### Added
+- German (Deutsch - de) has been added as a new language to the program
+### Changed
+- Made unused memory window start in the center of the screen at startup
+- Reverted to x32 to make the app compatible with every device
+### Fixed
+- Problems during the Uninstaller process solved
+- Some minor problems solved
+
 ## [v2.0.0] - 2024-08-10
 ### Added
 #### New installation wizard
