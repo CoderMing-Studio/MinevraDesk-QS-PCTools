@@ -66,8 +66,9 @@ File Operations provides advanced tools to manage and securely delete your files
 ### Supported Languages
 
     English (United States)
-    Türkçe (Türkiye)
-
+    Türkçe (Turkey)
+    Deutsch (Germany)
+    
 ### Supported Themes
 
     Dark Theme
