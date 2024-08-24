@@ -1,6 +1,6 @@
 # Changelog
 
-## [v2.1.0] - 2024-08-10
+## [v2.1.0] - 2024-08-24
 ### Added
 - German (Deutsch - de) has been added as a new language to the program
 ### Changed
@@ -10,7 +10,7 @@
 - Problems during the Uninstaller process solved
 - Some minor problems solved
 
-## [v2.0.0] - 2024-08-10
+## [v2.0.0] - 2024-08-21
 ### Added
 #### New installation wizard
 - We have stopped using the Inno setup programme in order to provide an advanced and convenient installation manually by MinevraDesk. We will now use our own installation wizard tool.
