@@ -1,5 +1,9 @@
 # Changelog
 
+## [v3.0.0] - 2024-08-26
+### Added
+- ** Updater (NEW) **
+
 ## [v2.1.0] - 2024-08-24
 ### Added
 - German (Deutsch - de) has been added as a new language to the program
