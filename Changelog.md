@@ -1,6 +1,6 @@
 # Changelog
 
-## [v3.0.0] - 2024-08-26
+## Latest [v3.0.0] - 2024-08-26
 ### Added
 #### Updater (NEW)
 - Now you can update your Qs Tools application easily and quickly with one button in the application 
