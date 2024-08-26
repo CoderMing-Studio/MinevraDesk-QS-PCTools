@@ -2,7 +2,11 @@
 
 ## [v3.0.0] - 2024-08-26
 ### Added
-- ** Updater (NEW) **
+#### Updater (NEW)
+- Now you can update your Qs Tools application easily and quickly with one button in the application 
+### Fixed
+- Fixed Installer and Uninstaller issues
+- Fixed a number of in-app situations
 
 ## [v2.1.0] - 2024-08-24
 ### Added
