@@ -1,6 +1,10 @@
 # Changelog
 
-## Latest [v3.0.0] - 2024-08-26
+## Latest [v3.2.0] - 2024-08-28
+### Changed
+- Now there is no installation required to run the app, and what's more, you can move it anywhere and use it at your convenience.
+
+## [v3.0.0] - 2024-08-26
 ### Added
 #### Updater (NEW)
 - Now you can update your Qs Tools application easily and quickly with one button in the application 
